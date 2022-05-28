@@ -3,17 +3,13 @@
 #### Authors: 
 #### Course: 
 
-
-## Introduction
-Two to three sentences summary on project 
-
 ## Table of contents
-* [General info](#general-info)
+* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+## Introduction
+Two to three sentences summary on project 
 	
 ## Technologies
 Project is created with:
