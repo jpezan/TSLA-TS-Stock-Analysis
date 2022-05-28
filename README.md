@@ -27,3 +27,7 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+## EDA
+
+## Holt-Winters
+
