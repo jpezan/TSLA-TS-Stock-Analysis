@@ -28,6 +28,7 @@ $ npm install
 $ npm start
 ```
 ## EDA
+insert eda images with a bit of explanation
 
 ## Holt-Winters
 
