@@ -7,6 +7,8 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [EDA](#eda)
+* [Holt-Winters](#holt-winters)
 
 ## Introduction
 Two to three sentences summary on project 
