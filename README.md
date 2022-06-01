@@ -78,4 +78,5 @@ library(Metrics)
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889
 - https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html
 - https://afit-r.github.io/ts_exp_smoothing
+- https://www.capitalone.com/tech/machine-learning/understanding-arima-models/
  
