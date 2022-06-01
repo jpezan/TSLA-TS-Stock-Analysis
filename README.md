@@ -7,8 +7,9 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [EDA](#eda)
-* [Holt-Winters](#holt-winters)
+* [Code](#Code)
+* [Data](#data)
+* [Models](#models)
 
 ## Introduction
 Two to three sentences summary on project 
@@ -34,3 +35,4 @@ TSLA_in_R.ipynb
 - CSV 
 - Link to dataset: https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020
 
+## Models
