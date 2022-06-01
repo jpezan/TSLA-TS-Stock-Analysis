@@ -10,6 +10,7 @@
 * [Code](#Code)
 * [Data](#data)
 * [Models](#models)
+* [Results](#results)
 * [Resources](#resources) 
 
 ## Introduction
@@ -60,6 +61,11 @@ library(Metrics)
 - ARIMA
 - GARCH
 - Neural Network
+
+## Results
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
 
 ## Resources
 - Ederington, Louis H., and Wei Guan. “Longer-Term Time-Series Volatility Forecasts.” The Journal of Financial and Quantitative Analysis, vol. 45, no. 4, 2010, pp. 1055–76. JSTOR, http://www.jstor.org/stable/40930464. Accessed 1 Jun. 2022.
