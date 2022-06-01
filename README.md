@@ -65,7 +65,7 @@ library(Metrics)
 ## Results
 | **MODEL** | **MSE**  | 
 | :---:   | :-: | 
-| ARIMA | - | 
+| ARIMA | 0.1639 | 
 | Holt-wintes | 13.15 | 
 | GARCH | 28.74 |
 | Neural Network | 00.03 | 
