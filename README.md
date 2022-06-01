@@ -22,12 +22,31 @@ Project is created with:
 * Ament library version: 999
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install and run the following packages: 
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+library(zoo)
+library(xts)
+library(forecast)
+library(tseries)
+library(dplyr)
+library(tidyverse)
+library(tidyr)
+library(rugarch)
+library(PerformanceAnalytics)
+library(quantmod)
+library(keras)
+library(tensorflow)
+library(FNN)
+#library(caret)
+library(class) 
+library(rpart.plot)
+library(rpart)  
+library(glmnet)
+library(NeuralNetTools) 
+library(PRROC)
+library(ROCR) 
+library(Metrics)
 ```
 ## Code
 - TSLA_in_R.ipynb
