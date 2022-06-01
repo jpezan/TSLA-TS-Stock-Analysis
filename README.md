@@ -28,9 +28,9 @@ $ npm install
 $ npm start
 ```
 ## Code
-insert eda images with a bit of explanation
+TSLA_in_R.ipynb
 
 ## Data
 - CSV 
-https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020
+- Link to dataset: https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020
 
