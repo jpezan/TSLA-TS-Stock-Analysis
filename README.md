@@ -1,7 +1,7 @@
 # TSLA STOCK PRICE ANALYSIS 
 ### Time Series Final Project 
-#### Authors: 
-#### Course: 
+#### Authors: Iliyana Staneva, Jacqueline Pezan, Kat Hutcheson, Ziyoda Saidova
+#### Course: MSCA 31006 2 Time Series Analysis and Forecasting
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -15,7 +15,7 @@
 
 ## Introduction
 Tesla – electric vehicle and solar panel manufacturer went IPO 2010. 
-This project creates various model that predict Tesla stock price. 
+This project creates various models that predict Tesla stock price. 
 	
 ## Technologies
 Project is created with:
