@@ -9,6 +9,7 @@
 * [Setup](#setup)
 * [Code](#Code)
 * [Data](#data)
+* [Presentation](#presentation)
 * [Models](#models)
 * [Results](#results)
 * [Resources](#resources) 
@@ -55,6 +56,9 @@ library(Metrics)
 ## Data
 - CSV 
 - Link to dataset: https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020
+
+## Presentation
+[TeslaGroupProject.pdf](https://github.com/jpezan/TSLA-TS-Stock-Analysis/files/8818733/TeslaGroupProject.pdf)
 
 ## Models
 - Holt-Winters
