@@ -29,7 +29,7 @@ $ npm install
 $ npm start
 ```
 ## Code
-TSLA_in_R.ipynb
+- TSLA_in_R.ipynb
 
 ## Data
 - CSV 
