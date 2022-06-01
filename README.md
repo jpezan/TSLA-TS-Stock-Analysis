@@ -1,7 +1,7 @@
 # TSLA STOCK PRICE ANALYSIS 
 ### Time Series Final Project 
-#### Authors: Iliyana Staneva, Jacqueline Pezan, Kat Hutcheson, Ziyoda Saidova
-#### Course: MSCA 31006 2 Time Series Analysis and Forecasting
+#### **Authors:** Iliyana Staneva, Jacqueline Pezan, Kat Hutcheson, Ziyoda Saidova
+#### **Course:** MSCA 31006 2 Time Series Analysis and Forecasting
 
 ## Table of contents
 * [Introduction](#introduction)
