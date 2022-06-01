@@ -65,10 +65,10 @@ library(Metrics)
 ## Results
 | **MODEL** | **MSE**  | 
 | :---:   | :-: | 
-| ARIMA | 301 | 
-| Holt-wintes | 301 | 
-| GARCH | 301 |
-| Neural Network | 301 | 
+| ARIMA | - | 
+| Holt-wintes | 13.15 | 
+| GARCH | 28.74 |
+| Neural Network | 00.03 | 
 
 ## Resources
 - Ederington, Louis H., and Wei Guan. “Longer-Term Time-Series Volatility Forecasts.” The Journal of Financial and Quantitative Analysis, vol. 45, no. 4, 2010, pp. 1055–76. JSTOR, http://www.jstor.org/stable/40930464. Accessed 1 Jun. 2022.
