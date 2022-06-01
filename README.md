@@ -27,8 +27,10 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
-## EDA
+## Code
 insert eda images with a bit of explanation
 
-## Holt-Winters
+## Data
+- CSV 
+https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020
 
