@@ -13,13 +13,13 @@
 * [Resources](#resources) 
 
 ## Introduction
-Two to three sentences summary on project 
+Tesla – electric vehicle and solar panel manufacturer went IPO 2010. 
+This project creates various model that predict Tesla stock price. 
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* R
+* Google Colaboratory 
 	
 ## Setup
 To run this project, install and run the following packages: 
